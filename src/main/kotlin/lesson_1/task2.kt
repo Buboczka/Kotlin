@@ -5,6 +5,7 @@ fun main() {
 
     println(countOrders)
     println(purchaseText)
+    //println(countEmployees)
 
     countEmployees--
 
