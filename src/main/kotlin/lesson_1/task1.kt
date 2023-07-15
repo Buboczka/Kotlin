@@ -1,2 +1,4 @@
-var countOrders = 0
-val purchaseText = "Спасибо за приобретенный товар"
+fun main() {
+    val countOrders = 0
+    val purchaseText = "Спасибо за приобретенный товар"
+}
