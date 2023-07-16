@@ -1,8 +1,8 @@
 package lesson_5
 
 fun main() {
-    val firstNumber = (1..100).random()
-    val secondNumber = (1..100).random()
+    val firstNumber = 20
+    val secondNumber = 80
 
     println("Введите два числа от 1 до 100")
     print("Введите первое число: ")
